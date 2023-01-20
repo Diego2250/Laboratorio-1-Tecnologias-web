@@ -98,3 +98,16 @@ reader is familiar with the concepts discussed in this memo.
    requirement for a protocol designed espressoly for the brewing of
    coffee. Coffee is brewed using coffee pots.  Networked coffee pots
    require a control protocol if they are to be controlled.  
+   
+¿Que respuesta les dio la psicoterapeuta a la pregunta "what is life?"?
+   
+.eliza
+HELLO, I AM ELIZA.
+
+hello
+
+HOW DO YOU DO. PLEASE STATE YOUR PROBLEM.
+
+What is life?
+
+WHAT COMES TO MIND WHEN YOU ASK THAT?
