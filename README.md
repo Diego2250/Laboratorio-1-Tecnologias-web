@@ -122,3 +122,6 @@ Coloquen un ejemplo de un fnord
    
 ![image](https://user-images.githubusercontent.com/77738746/213598203-f8fed898-59b2-4013-92e1-8c64a5d546ff.png)
 
+En el emulador de apple, corran el software appleteach1 y luego el programa 34, corran todo el test, cuál fue su resultado?
+
+- YOU HAVE SEXUAL INCLINATIONS, YOU ARE A LOVING PERSON, YOU ARE RIGHTEOUS, YOU THINK THINGS OUT INTELLIGENTLY, YOU TAKE ADVANTAGE OF ANY OPPORTUNITY         
