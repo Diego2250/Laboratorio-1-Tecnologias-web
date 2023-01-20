@@ -111,3 +111,8 @@ HOW DO YOU DO. PLEASE STATE YOUR PROBLEM.
 What is life?
 
 WHAT COMES TO MIND WHEN YOU ASK THAT?
+
+Coloquen un ejemplo de un fnord
+- Agent Orange is the humming grimoire; Kareem Abdul-Jabbar takes no notice of the North Pole.
+   
+![image](https://user-images.githubusercontent.com/77738746/213597908-40b8082c-b7fc-4a02-9943-ebe72b47d8ac.png)
