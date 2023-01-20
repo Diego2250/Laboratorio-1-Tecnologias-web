@@ -116,3 +116,9 @@ Coloquen un ejemplo de un fnord
 - Agent Orange is the humming grimoire; Kareem Abdul-Jabbar takes no notice of the North Pole.
    
 ![image](https://user-images.githubusercontent.com/77738746/213597908-40b8082c-b7fc-4a02-9943-ebe72b47d8ac.png)
+   
+¿Cuál es el path de tcp entre telehack.com y el host "ecord"?   
+- telehack!veritas!uunet!atina!ecord   
+   
+![image](https://user-images.githubusercontent.com/77738746/213598203-f8fed898-59b2-4013-92e1-8c64a5d546ff.png)
+
